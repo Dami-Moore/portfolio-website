@@ -503,6 +503,10 @@ footer .resume i {
         padding-block: 5%;
     }
 
+    .skills-list {
+        margin-top: 20px;
+    }
+
     .currently-learning {
         text-align: center;
         background-color: #212121;
@@ -585,8 +589,12 @@ footer .resume i {
         font-size: 0.6rem;
     }
 
-
+    .my-container button {
+        width: 60%;
+    }
+    
 }
+
 
 @media only screen and (max-width: 320px) {
     h1 {
@@ -616,5 +624,10 @@ footer .resume i {
 
     .copyright p {
         font-size: 0.52rem;
+    }
+
+    .resume-container {
+        width: 50%;
+        left: 25%;
     }
 }
