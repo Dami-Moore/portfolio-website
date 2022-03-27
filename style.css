@@ -568,6 +568,7 @@ footer .resume i {
 
     .dev-codes .front-end {
         margin-left: -30px;
+        position: relative;
     }
 
     .dev-codes .front-end img {
@@ -577,7 +578,7 @@ footer .resume i {
     .dev-codes .fa-github {
         position: absolute;
         top: 55%;
-        left: 22.5%;
+        left: 22%;
     }
 
     .copyright {
